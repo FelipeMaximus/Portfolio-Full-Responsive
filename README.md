@@ -6,14 +6,12 @@
 
 ![Imagem](demo.png)
 
-# Responsive Personal Portfolio Website Using HTML CSS & JavaScript
-Aqui tem acesso a alguns projetos implementados um pouco mais sobre o portfolio pessoal
-
-e tambem de como entrar em contato por vários tipos de canais de comunicação.
+# 100% Responsive Personal Portfolio Website Using HTML CSS & JavaScript
+Aqui tem acesso a alguns projetos implementados um pouco mais sobre o portfolio.
 
 # Projeto HTML 5 - CSS3 E JAVASCRIPT
 
-  - [x] Responsividade 
+  - [x] Responsividade Total
   - [x] Tema modo Escuro
   - [x] Scrool moderno
   - [x] Geolocalização
