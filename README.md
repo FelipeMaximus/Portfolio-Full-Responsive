@@ -19,7 +19,7 @@ Aqui tem acesso a alguns projetos implementados um pouco mais sobre o portfolio.
 
 ## Deploy on Vercel
 
-[Click aqui](https://portfolio-filypy-maycon.vercel.app/) para ver a live preview deste projeto.
+[Click aqui](https://portfolio-fullresponsive.netlify.app/) para ver a live preview deste projeto.
 
 ## Aponte a sua camera aqui
 
